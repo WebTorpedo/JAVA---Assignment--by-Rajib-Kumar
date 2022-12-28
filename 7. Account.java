@@ -2,7 +2,8 @@
 froman Account. Ensure that the debit amount does not exceed the Account’s
 balance. If it does, the balance should be left unchanged and the method
 should print a message indicating ―Debit amount exceeded account balance.
-Modify class AccountTest (intheexample) to test method debit.*/
+Modify class AccountTest (intheexample) to test method debit.
+*/
 
 import java.util.Scanner; 
 
@@ -67,3 +68,5 @@ public class Account
         System.out.printf( "account2 balance: $%.2f\n", account2.getBalance() );
     }
 }
+
+// Rajib kumar
