@@ -6,7 +6,7 @@ Modify class AccountTest (intheexample) to test method debit.*/
 
 import java.util.Scanner; 
 
- class Bank
+ class Bank56562
 {
     private double balance;
 
